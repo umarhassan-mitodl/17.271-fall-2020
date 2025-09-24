@@ -1,0 +1,56 @@
+leftnav:
+- identifier: c8c40cc0-4688-d25d-26dc-0cd77eb96d62
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: cea1faf7-cf6c-94ca-6cf1-ba466904cbce
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: ab014b1b-9794-5966-142c-0e405f44ff37
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 9c82cf68-dbd4-207d-2db0-ae874e69e57d
+  name: Big Picture Ideas
+  pageRef: /pages/instructor-insights/big-picture-ideas
+  parent: ab014b1b-9794-5966-142c-0e405f44ff37
+  weight: 40
+- identifier: 1603e469-847e-8130-cb23-0dd917cc8893
+  name: Strategies for Remote Learning
+  pageRef: /pages/instructor-insights/strategies-for-remote-learning
+  parent: ab014b1b-9794-5966-142c-0e405f44ff37
+  weight: 50
+- identifier: 6b62ced3-0ad4-889c-b90c-3da00db74a88
+  name: Keeping It Local
+  pageRef: /pages/instructor-insights/keeping-it-local
+  parent: ab014b1b-9794-5966-142c-0e405f44ff37
+  weight: 60
+- identifier: d66f2fba-3b0a-d84b-3205-951caa0df27f
+  name: Readings, Videos, and Audio
+  pageRef: /pages/readings
+  weight: 70
+- identifier: f633127a-fb5f-0c49-2d7b-89bad8ddb77b
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 80
+- identifier: 6806c15a-221e-82a5-2521-2f9eb1320082
+  name: Assignment 1
+  pageRef: /pages/assignments/assignment-1
+  parent: f633127a-fb5f-0c49-2d7b-89bad8ddb77b
+  weight: 90
+- identifier: 6403123a-a1fb-0d24-e35e-b85486aeb4d6
+  name: Assignment 2
+  pageRef: /pages/assignments/assignment-2
+  parent: f633127a-fb5f-0c49-2d7b-89bad8ddb77b
+  weight: 100
+- identifier: 2687da18-a8fa-e553-fa30-6e6d509342f6
+  name: Assignment 3
+  pageRef: /pages/assignments/assignment-3
+  parent: f633127a-fb5f-0c49-2d7b-89bad8ddb77b
+  weight: 110
+- identifier: bcf7f296-c210-7228-0c5b-748a1130cef7
+  name: Final Presentation
+  pageRef: /pages/assignments/final-presentation
+  parent: f633127a-fb5f-0c49-2d7b-89bad8ddb77b
+  weight: 120

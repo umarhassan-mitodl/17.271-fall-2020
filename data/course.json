@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2020",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Legal Studies"
+    ],
+    [
+      "Social Science",
+      "Sociology",
+      "Social Justice"
+    ]
+  ],
+  "legacy_uid": "53baf0a6-80d0-5aca-d612-2fa8735c3565",
+  "instructors": {
+    "content": [
+      "8f5ac48e-825a-f618-1962-7692fb37c5dc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ea40e8d1-6964-7729-c33b-eecc705cd88a",
+    "website": "17-271-mass-incarceration-in-the-united-states-fall-2020"
+  },
+  "course_title": "Mass Incarceration in the United States",
+  "course_description": "This course covers the current state of incarceration in the United States and proposals for reform. Class materials include a mix of firsthand/media accounts of incarceration and social science literature on the causes and effects of high incarceration rates. Topics include race and the criminal legal system, collateral consequences of incarceration, public opinion about incarceration, and the behavior of recently elected \"reform\" prosecutors.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.271",
+  "course_image_thumbnail": {
+    "content": "10411fa3-616f-757a-386c-be942e6b54cb",
+    "website": "17-271-mass-incarceration-in-the-united-states-fall-2020"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments with Examples",
+    "Instructor Insights"
+  ],
+  "site_uid": "de03695c-16ee-428b-a9d3-d2beee200a9b",
+  "site_short_id": "17.271-fall-2020",
+  "site_url_path": "courses/17-271-mass-incarceration-in-the-united-states-fall-2020",
+  "title": "Course Metadata"
+}
