@@ -38,7 +38,7 @@ Prior study providing basic understanding of American political institutions (as
 ### Requirements Satisfied
 
 - HASS-S
-- 17.271 can be applied toward a {{% resource_link "0a8baf5b-a6d4-4fd8-ad7f-4493f1e39055" "Bachelor of Science in Political Science" %}}, but is not required.
+- 17.271 can be applied toward a {{% resource_link "8eccb7e1-c195-4f9e-8843-59927f35c195" "Bachelor of Science in Political Science" %}}, but is not required.
 
 ### Offered
 

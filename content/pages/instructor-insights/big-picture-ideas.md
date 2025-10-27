@@ -17,7 +17,7 @@ _In this section, Prof. Ariel White describes some of the key concepts and theme
 
 {{< resource 9de00c13-dc7a-2d90-da96-2f633b22bab2 >}}
 
-Aerial view of the North Central Correctional Institute in Gardner, Massachusetts. (Image courtesy of {{% resource_link "fbe5b8b3-a464-4ad3-a64b-be38bf9cc305" "backseatpilot" %}}. License: CC BY-NC-SA.)
+Aerial view of the North Central Correctional Institute in Gardner, Massachusetts. (Image courtesy of {{% resource_link "60fc305a-ac18-4089-8227-5c3a0e770f54" "backseatpilot" %}}. License: CC BY-NC-SA.)
 
 First, I wanted to make sure students had a basic descriptive understanding of what people mean when they say “mass incarceration.” The modern United States is an extreme outlier in its use of incarceration, both compared to the rest of the world and compared to our own history, and I wanted to give students the resources to understand what that scale of incarceration means both at a high level and for individual people caught up in it.
 
