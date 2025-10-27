@@ -25,7 +25,7 @@ This assignment is due during week 11.
 The details:
 
 *   Ideally, you should use an article that will be relevant to your final project topic. We will discuss the final project during week 9, so you should have enough information to choose a relevant article. If you’re uncertain about whether your proposed topic works, contact the instructor.
-*   The academic article you choose should be published (not a working paper) in an academic journal: it should not be a newspaper article or a report put out by a think tank. {{% resource_link "90d11a88-3516-42be-9382-ccf983e57229" "Google Scholar" %}} can be a useful tool for finding relevant research on a given topic; if you’re unsure of where to begin looking for papers on your topic of interest, reach out to the instructor for some guidance.
+*   The academic article you choose should be published (not a working paper) in an academic journal: it should not be a newspaper article or a report put out by a think tank. {{% resource_link "862a9cae-b02a-47f4-a04b-19d96d2fd914" "Google Scholar" %}} can be a useful tool for finding relevant research on a given topic; if you’re unsure of where to begin looking for papers on your topic of interest, reach out to the instructor for some guidance.
 *   This assignment should be written as a brief (not more than 3 pages) essay. It should be written in complete sentences, it should be proofread, and it should include enough information for readers to go look at any sources you cite.
 
 _Student Example_

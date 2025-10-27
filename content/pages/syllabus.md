@@ -30,7 +30,7 @@ Expectations
 
 My general expectation is that you will come to class prepared to fully participate. This means doing the readings for class in advance of participatory sessions. It also means treating your classmates with respect, and listening to and engaging meaningfully with them when they speak (or post online).
 
-Students are encouraged to talk to one another outside of class about issues discussed in class and to brainstorm about essays. You often learn best from your peers. However, each student is expected to write his or her own essays individually. Any work completed for another class must be disclosed (don't turn in the same paper or assignment for two different courses without prior approval). For more on academic integrity, please see {{% resource_link "d2faa7ba-c9af-4688-8106-e6d4fc507261" "Academic Integrity at MIT: A Handbook for Students" %}}. 
+Students are encouraged to talk to one another outside of class about issues discussed in class and to brainstorm about essays. You often learn best from your peers. However, each student is expected to write his or her own essays individually. Any work completed for another class must be disclosed (don't turn in the same paper or assignment for two different courses without prior approval). For more on academic integrity, please see {{% resource_link "0a831471-e154-4ab8-9087-1cb21fe3ec8f" "Academic Integrity at MIT: A Handbook for Students" %}}. 
 
 Grading Policy
 --------------
